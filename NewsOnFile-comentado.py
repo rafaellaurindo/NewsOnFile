@@ -2,7 +2,7 @@ import requests # importa a biblioteca de requisicoes http
 from bs4 import BeautifulSoup # importa a  biblioteca que irá tratar o retorno
 
 print("#"*30)
-print("#     NewsSave on File     #")
+print("#      NewsSave on File      #")
 print("#  News from The Hacker News #")
 print("#       @rafaelfilholm       #")
 print("#"*30)

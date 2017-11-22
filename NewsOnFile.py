@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 print("#"*30)
-print("#     NewsSave on File     #")
+print("#      NewsSave on File      #")
 print("#  News from The Hacker News #")
 print("#       @rafaelfilholm       #")
 print("#"*30)
